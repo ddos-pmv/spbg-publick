@@ -1,1 +1,0 @@
-# spbg-publick
