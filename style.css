@@ -1,0 +1,14 @@
+:root{
+    --color1: rgb(0, 75, 146);
+}
+body{
+    min-width: 1072px;
+    color: var(--color1);
+}
+b{
+    text-decoration: none;
+    color: var(--color1);
+}
+section{
+    margin: 100px 0;
+}
